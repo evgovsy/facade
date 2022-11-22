@@ -1,0 +1,3 @@
+interface Checkable {
+    boolean check();
+}
